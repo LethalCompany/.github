@@ -1,9 +1,3 @@
-# Lethal Company Community resources
+# .github
 
-This organisation was created in order to make various resources available to the community in an open-source, collaborative format.
-
-It is primarily made for the modding community, though guides and tools aimed at other parts of the community are absolutely welcome.
-
-## Important links
-- The modding [wiki](https://github.com/LethalCompany/LethalCompanyModdingWiki) will help you get started in modding the game.
-- The [Unofficial Lethal Company Community](https://discord.gg/nYcQFEpXfU) is this organisation's official discord server. It hosts both general community channels, as well as a modding category.
+This repository is a special type of repository that is used to personalise the organisation's profile.
