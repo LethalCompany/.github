@@ -6,6 +6,7 @@ It is primarily made for the modding community, though guides and tools aimed at
 
 ## Important links
 - The modding [wiki](https://github.com/LethalCompany/LethalCompanyModdingWiki) will help you get started in modding the game.
+- A [template repository](https://github.com/LethalCompany/LethalCompanyTemplate) exists, allowing for a quick start into modding. Note that you'll still need to do some [initial setup](https://github.com/LethalCompany/LethalCompanyModdingWiki/wiki/Initial-setup)!
 - The [Unofficial Lethal Company Community](https://discord.gg/nYcQFEpXfU) is this organisation's official discord server. It hosts both general community channels, as well as a modding category.
 
 > Note that we are not affiliated with the Lethal Company development team.
